@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fcc1f8e5f5b3594da2905c03907e5b2, type: 3}
+  m_Name: AudioData
+  m_EditorClassIdentifier: 
+  BgmList:
+  - BgmName: MainScene
+    Clip: {fileID: 8300000, guid: 189226adf06457f4f9a068cc8ca1e55c, type: 3}
+  - BgmName: Game
+    Clip: {fileID: 8300000, guid: 3607170f3a24df640963e4da9c271ef6, type: 3}
+  SoundList:
+  - SoundName: ButtonClick
+    Clip: {fileID: 8300000, guid: 6e8071d50a5c1534fb968c160e912e3f, type: 3}
+    Volume: 1
+    isLoop: 0
+  - SoundName: Success
+    Clip: {fileID: 8300000, guid: 5eecddc7d47303e41991c1140cd090ab, type: 3}
+    Volume: 1
+    isLoop: 0
+  - SoundName: Error
+    Clip: {fileID: 8300000, guid: c79183a249c93f04e9c30ade13f55249, type: 3}
+    Volume: 1
+    isLoop: 0
+  - SoundName: OnHit
+    Clip: {fileID: 8300000, guid: e6f98091cc25f894f98ced38a7d71dae, type: 3}
+    Volume: 1
+    isLoop: 0
+  - SoundName: EarnCoin
+    Clip: {fileID: 8300000, guid: 23f0e02686e7c92498a74a723c938f62, type: 3}
+    Volume: 1
+    isLoop: 0
+  - SoundName: Petir
+    Clip: {fileID: 8300000, guid: 2d1903cb40b5091429ea0f825fcf8713, type: 3}
+    Volume: 1
+    isLoop: 0

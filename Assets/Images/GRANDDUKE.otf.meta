@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 36dfce50391d89c41869d776e6084f26
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - GRAND DUKE
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9c972c311e34936439f771d741627bc8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
